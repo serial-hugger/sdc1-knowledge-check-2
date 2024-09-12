@@ -1,0 +1,15 @@
+/home/jeremy/Documents/Projects/sdc1-knowledge-check-2/knowledge-check-2/bin/Debug/net8.0/knowledge-check-2
+/home/jeremy/Documents/Projects/sdc1-knowledge-check-2/knowledge-check-2/bin/Debug/net8.0/knowledge-check-2.deps.json
+/home/jeremy/Documents/Projects/sdc1-knowledge-check-2/knowledge-check-2/bin/Debug/net8.0/knowledge-check-2.runtimeconfig.json
+/home/jeremy/Documents/Projects/sdc1-knowledge-check-2/knowledge-check-2/bin/Debug/net8.0/knowledge-check-2.dll
+/home/jeremy/Documents/Projects/sdc1-knowledge-check-2/knowledge-check-2/bin/Debug/net8.0/knowledge-check-2.pdb
+/home/jeremy/Documents/Projects/sdc1-knowledge-check-2/knowledge-check-2/obj/Debug/net8.0/knowledge-check-2.GeneratedMSBuildEditorConfig.editorconfig
+/home/jeremy/Documents/Projects/sdc1-knowledge-check-2/knowledge-check-2/obj/Debug/net8.0/knowledge-check-2.AssemblyInfoInputs.cache
+/home/jeremy/Documents/Projects/sdc1-knowledge-check-2/knowledge-check-2/obj/Debug/net8.0/knowledge-check-2.AssemblyInfo.cs
+/home/jeremy/Documents/Projects/sdc1-knowledge-check-2/knowledge-check-2/obj/Debug/net8.0/knowledge-check-2.csproj.CoreCompileInputs.cache
+/home/jeremy/Documents/Projects/sdc1-knowledge-check-2/knowledge-check-2/obj/Debug/net8.0/knowledge-check-2.sourcelink.json
+/home/jeremy/Documents/Projects/sdc1-knowledge-check-2/knowledge-check-2/obj/Debug/net8.0/knowledge-check-2.dll
+/home/jeremy/Documents/Projects/sdc1-knowledge-check-2/knowledge-check-2/obj/Debug/net8.0/refint/knowledge-check-2.dll
+/home/jeremy/Documents/Projects/sdc1-knowledge-check-2/knowledge-check-2/obj/Debug/net8.0/knowledge-check-2.pdb
+/home/jeremy/Documents/Projects/sdc1-knowledge-check-2/knowledge-check-2/obj/Debug/net8.0/knowledge-check-2.genruntimeconfig.cache
+/home/jeremy/Documents/Projects/sdc1-knowledge-check-2/knowledge-check-2/obj/Debug/net8.0/ref/knowledge-check-2.dll
